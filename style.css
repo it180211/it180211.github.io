@@ -1,0 +1,72 @@
+body {
+    background-color: #2e2e2e;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+* {
+    box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+
+.skills {
+  text-align: right;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  color: white;
+}
+#skill h1{
+    color: #ffffff;
+    text-align: center;
+}
+ 
+    h1{
+         color: #2e2e2e;
+        text-align: center;
+    }
+
+p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 3vw;
+}
+summary{
+    font-size: 5vw;
+    color: white;
+    text-align: center;
+}
+
+.header{
+    background-color: #202020;
+    text-align: center;
+    padding-top:    2%;
+    padding-bottom: 2%;
+}
+
+header a{
+color: #ffffff;
+text-decoration: none;
+font-size: 3vw;
+}
+
+#abstand{
+    margin-bottom: 5%;
+}
+
+.html {
+    width: 90%; background-color: rgb(61, 58, 192);
+}
+
+.css {
+    width: 80%; background-color: rgb(180, 48, 162);
+}
+.js {
+    width: 15%; background-color: #f44336;
+}
+.java {
+    width: 20%; background-color: #ffd000;
+   
+}
+
